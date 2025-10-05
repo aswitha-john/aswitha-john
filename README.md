@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hi, I'm Aswitha
+🌟 Java Developer | SpringBoot | Microservices | REST APIs
 
-<!--
-**aswitha-john/aswitha-john** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on microservices-based backend systems
+- ⚡ Fun fact: I love building things that automate work!
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microservices-Arch-1E90FF?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=fastapi&logoColor=white" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect with me
+[LinkedIn](https://www.linkedin.com/in/aswitha-j) | [GitHub](https://github.com/aswitha-john)
